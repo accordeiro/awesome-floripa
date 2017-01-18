@@ -56,6 +56,7 @@
 - [ ] Spicy Food
 - [ ] Mesinha (córrego)
 - [ ] Mediterraneo Bistreau
+- [ ] Vitrola Burger
 
 ## TODO
 - [ ] Order and classify restaurants

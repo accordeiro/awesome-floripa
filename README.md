@@ -57,6 +57,7 @@
 - [ ] Mesinha (córrego)
 - [ ] Mediterraneo Bistreau
 - [ ] Vitrola Burger
+- [ ] Spice Garden
 
 ## TODO
 - [ ] Order and classify restaurants
